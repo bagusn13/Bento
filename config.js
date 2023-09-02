@@ -14,7 +14,7 @@ const CONFIG = {
   name: 'Bagus',
   imageBackground: false,
   openInNewTab: true,
-  twelveHourFormat: false,
+  twelveHourFormat: true,
 
   // Greetings
   greetingMorning: 'Good morning!',
@@ -114,12 +114,12 @@ const CONFIG = {
         link: 'https://figma.com/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Jira',
+        link: 'https://ondelivery.atlassian.net/jira/projects',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Stoplight',
+        link: 'https://cahskuy.stoplight.io/',
       },
     ],
   },
